@@ -70,6 +70,12 @@ h1::before {
     width: 150px;
     
 }
+#class {
+    background-color: aliceblue;
+}
+div#class1 {
+    background-color: gainsboro;
+}
 
 
 .him2 {
