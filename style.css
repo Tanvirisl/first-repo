@@ -2,6 +2,10 @@ body{
     width: 1100px;
     margin: auto;
 }
+.my-mession1{
+    overflow: hidden;
+    height: 500px;
+}
 .image1 img {
     width: 499px;
     clip-path: circle();
@@ -49,3 +53,44 @@ button {
     padding: 8px;
     font-size: 19px;
 }
+.him1 {
+    font-size: 40px;
+    width: 517px;
+    font-family: ui-serif;
+    margin: auto;
+    margin-top: 92px;
+}
+.himoo{
+   color:orangered; 
+}
+img {
+    width: 150px;
+    
+}
+
+
+.him2 {
+    width: 330px;
+    float: left;
+    background: beige;
+    margin: 17px;
+    border-radius: 11px;
+    height: 340px;
+}
+.him2 p {
+    width: 300px;
+  
+}
+
+.him2 h3 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.him2 p {
+    font-size: 18px;
+}
+.him2 p {
+    padding-left: 20px;
+}
+
