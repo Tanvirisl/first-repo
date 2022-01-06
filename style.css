@@ -1,0 +1,51 @@
+body{
+    width: 1100px;
+    margin: auto;
+}
+.image1 img {
+    width: 499px;
+    clip-path: circle();
+    position: relative;
+    margin-top: 118px;
+}
+.program{
+    float: left;
+    margin-left: 40px;
+    margin-top: 100px;
+    height: 300px;
+}
+h1 {
+    font-size: 62px;
+    font-family: ui-sans-serif;
+}
+p{
+    width: 500px;
+    font-size: 18px;
+}
+.p2{
+    font-size: 22px;
+}
+h1::before {
+    content: '';
+    background: orangered;
+    position: absolute;
+    width: 6px;
+    height: 148px;
+    left: 225px;
+    top: 153px;
+}
+
+.my-mession1{
+    background-color: white;
+}
+.header{
+    color: orange;
+    font-size: 50px;
+}
+button {
+    background: coral;
+    border-radius: 4px;
+    color: white;
+    padding: 8px;
+    font-size: 19px;
+}
