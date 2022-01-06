@@ -46,12 +46,15 @@ h1::before {
     color: orange;
     font-size: 50px;
 }
-button {
-    background: coral;
-    border-radius: 4px;
+
+
+.button1 button {
     color: white;
-    padding: 8px;
-    font-size: 19px;
+    padding: 10px;
+    font-size: 13px;
+    width: 100px;
+    background: orange;
+    border-radius: 4px;
 }
 .him1 {
     font-size: 40px;
@@ -63,7 +66,7 @@ button {
 .himoo{
    color:orangered; 
 }
-img {
+.him2 img {
     width: 150px;
     
 }
@@ -93,4 +96,62 @@ img {
 .him2 p {
     padding-left: 20px;
 }
+section{
+    overflow: hidden;
+}
+footer {
+    background: black;
 
+}
+
+footer h1 {
+    color: white;
+    width: 250px;
+    margin: auto;
+    margin-top: px;
+    font-size: 37px;
+    font-family: monospace;
+    padding-top: 21px;
+}
+
+footer span {
+    color: orange;
+}
+section{
+    margin-bottom: 40px;
+}
+
+footer p {
+    color: white;
+    font-size: 17px;
+    width: 381px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 32px;
+}
+
+.part1 img {
+    width: 500px;
+    float: left;
+}
+.part2 {
+    width: 562px;
+    float: right;
+}
+.part2 h2 {
+    font-size: 42px;
+    font-family: system-ui;
+}
+
+.part2 p {
+    font-size: 18px;
+    color: brown;
+}
+
+.part2 button {
+    background: orange;
+    border-radius: 4px;
+    font-size: 18px;
+    font-family: revert;
+    padding: 5px;
+}
