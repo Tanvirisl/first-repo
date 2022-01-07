@@ -29,14 +29,14 @@ p{
 .p2{
     font-size: 22px;
 }
-h1::before {
+.divv::before {
     content: '';
     background: orangered;
     position: absolute;
     width: 6px;
     height: 148px;
-    left: 225px;
     top: 153px;
+    margin: 0px -13px;
 }
 
 .my-mession1{
